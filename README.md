@@ -5,3 +5,17 @@ Rafael Henrique Dalegrave Zottesso
 Curso de introdução ao desenvolvimento Web com Python 3 e Django
 
 
+
+
+
+
+
+
+
+
+
+
+Curso
+https://www.youtube.com/playlist?list=PLjv17QYEBJPpd6nI-MXpIa4qR7prKfPQz
+
+
