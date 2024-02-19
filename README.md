@@ -17,3 +17,15 @@ Commands
 Criação:
 django-admin startproject nomeProjeto
 
+Rodar:
+python manage.py runserver
+
+Executar criação de tabelas:
+python manage.py migrate
+
+Cra um usuario com fullAcesso
+python manage.py createsuperuser
+
+Criação de Apps
+python manage.py startapp ${cadastros}
+
